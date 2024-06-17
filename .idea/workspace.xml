@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11b042c7-e949-40cb-81a4-642b2d70dad6" name="Changes" comment="Add SetUp, Download Data, A quick Look at the Data Structure and Create a Test Set">
-      <change afterPath="$PROJECT_DIR$/utils/download_img.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/save_image.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/data_analysis_california_housing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data_analysis_california_housing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/download_extract_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/download_extract_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +113,8 @@
       <updated>1718096429455</updated>
       <workItem from="1718096430705" duration="12618000" />
       <workItem from="1718184375323" duration="6172000" />
-      <workItem from="1718360851971" duration="6353000" />
+      <workItem from="1718360851971" duration="7593000" />
+      <workItem from="1718637009610" duration="2249000" />
     </task>
     <task id="LOCAL-00001" summary="Add SetUp, Download Data, A quick Look at the Data Structure and Create a Test Set">
       <option name="closed" value="true" />
