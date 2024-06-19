@@ -2,7 +2,7 @@ import os
 import tarfile
 import urllib
 
-def fetch_housing_data(url, path, name):
+def download_extract_data(url, path, name):
     os.makedirs(path, exist_ok=True)
     tgz_path = os.path.join(path, name)
     urllib.request.urlretrieve(url, tgz_path)
